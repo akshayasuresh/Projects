@@ -1,6 +1,6 @@
 //
 //  LorentzVector.cxx
-//  defines a class of four vectors, which can then be used to solve problem of general relativity
+//  defines a class of four vectors, which can then be used to solve problems involving objects moving at relativistic speeds
 //
 //  Created by Akshaya Suresh on 4/21/14.
 //
