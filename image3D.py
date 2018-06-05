@@ -1,3 +1,5 @@
+#Create 3d Universe Map
+
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
